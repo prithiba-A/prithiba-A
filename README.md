@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm PRITHIBA A</h1>
-<h3 align="center">Machine Learning Enthusiast</h3>
+<h1 align=>Hi 👋, I'm PRITHIBA A</h1>
+<h3 align=>Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithiba-a&label=Profile%20views&color=0e75b6&style=flat" alt="prithiba-a" /> </p>
 
